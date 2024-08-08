@@ -1,0 +1,10 @@
+digraph G {
+rankdir=LR;
+node [shape=record];
+node0 [label="{5}"];
+node0 -> node1 [dir=both];
+node1 [label="{10}"];
+node1 -> node2 [dir=both];
+node2 [label="{30}"];
+node2 -> node0 [dir=both];
+}
