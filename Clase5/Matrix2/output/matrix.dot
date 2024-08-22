@@ -1,0 +1,73 @@
+digraph Matrix {
+node[shape = "box"];
+"Nodo0_0"[label = "root", group="0"];
+"Nodo0_0"->"Nodo0_2"
+"Nodo0_0"->"Nodo0_2"[dir = back];
+"Nodo0_0"->"Nodo1_0"
+"Nodo0_0"->"Nodo1_0"[dir = back];
+"Nodo0_2"[label = "1", group="0"];
+"Nodo0_2"->"Nodo0_4"
+"Nodo0_2"->"Nodo0_4"[dir = back];
+"Nodo0_2"->"Nodo2_2"
+"Nodo0_2"->"Nodo2_2"[dir = back];
+"Nodo0_4"[label = "3", group="0"];
+"Nodo0_4"->"Nodo0_6"
+"Nodo0_4"->"Nodo0_6"[dir = back];
+"Nodo0_4"->"Nodo1_4"
+"Nodo0_4"->"Nodo1_4"[dir = back];
+"Nodo0_6"[label = "5", group="0"];
+"Nodo0_6"->"Nodo0_11"
+"Nodo0_6"->"Nodo0_11"[dir = back];
+"Nodo0_6"->"Nodo2_6"
+"Nodo0_6"->"Nodo2_6"[dir = back];
+"Nodo0_11"[label = "10", group="0"];
+"Nodo0_11"->"Nodo6_11"
+"Nodo0_11"->"Nodo6_11"[dir = back];
+{rank=same;"Nodo0_0";"Nodo0_2";"Nodo0_4";"Nodo0_6";"Nodo0_11"}
+"Nodo1_0"[label = "0", group="1"];
+"Nodo1_0"->"Nodo1_4"
+"Nodo1_0"->"Nodo1_4"[dir = back];
+"Nodo1_0"->"Nodo2_0"
+"Nodo1_0"->"Nodo2_0"[dir = back];
+"Nodo1_4"[label = "F", group="1"];
+"Nodo1_4"->"Nodo6_4"
+"Nodo1_4"->"Nodo6_4"[dir = back];
+{rank=same;"Nodo1_0";"Nodo1_4"}
+"Nodo2_0"[label = "1", group="2"];
+"Nodo2_0"->"Nodo2_2"
+"Nodo2_0"->"Nodo2_2"[dir = back];
+"Nodo2_0"->"Nodo5_0"
+"Nodo2_0"->"Nodo5_0"[dir = back];
+"Nodo2_2"[label = "T", group="2"];
+"Nodo2_2"->"Nodo2_6"
+"Nodo2_2"->"Nodo2_6"[dir = back];
+"Nodo2_2"->"Nodo5_2"
+"Nodo2_2"->"Nodo5_2"[dir = back];
+"Nodo2_6"[label = "T", group="2"];
+"Nodo2_6"->"Nodo6_6"
+"Nodo2_6"->"Nodo6_6"[dir = back];
+{rank=same;"Nodo2_0";"Nodo2_2";"Nodo2_6"}
+"Nodo5_0"[label = "4", group="5"];
+"Nodo5_0"->"Nodo5_2"
+"Nodo5_0"->"Nodo5_2"[dir = back];
+"Nodo5_0"->"Nodo6_0"
+"Nodo5_0"->"Nodo6_0"[dir = back];
+"Nodo5_2"[label = "T", group="5"];
+"Nodo5_2"->"Nodo6_2"
+"Nodo5_2"->"Nodo6_2"[dir = back];
+{rank=same;"Nodo5_0";"Nodo5_2"}
+"Nodo6_0"[label = "5", group="6"];
+"Nodo6_0"->"Nodo6_2"
+"Nodo6_0"->"Nodo6_2"[dir = back];
+"Nodo6_2"[label = "T", group="6"];
+"Nodo6_2"->"Nodo6_4"
+"Nodo6_2"->"Nodo6_4"[dir = back];
+"Nodo6_4"[label = "F", group="6"];
+"Nodo6_4"->"Nodo6_6"
+"Nodo6_4"->"Nodo6_6"[dir = back];
+"Nodo6_6"[label = "F", group="6"];
+"Nodo6_6"->"Nodo6_11"
+"Nodo6_6"->"Nodo6_11"[dir = back];
+"Nodo6_11"[label = "T", group="6"];
+{rank=same;"Nodo6_0";"Nodo6_2";"Nodo6_4";"Nodo6_6";"Nodo6_11"}
+}
