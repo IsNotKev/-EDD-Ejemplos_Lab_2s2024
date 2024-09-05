@@ -1,0 +1,7 @@
+C:/Users/kevin/OneDrive/Escritorio/Tareas/Prácticas Finales/-EDD-Ejemplos_Lab_2s2024/Clase7/Ejemplo1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Ejemplo1.dir
+C:/Users/kevin/OneDrive/Escritorio/Tareas/Prácticas Finales/-EDD-Ejemplos_Lab_2s2024/Clase7/Ejemplo1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/OneDrive/Escritorio/Tareas/Prácticas Finales/-EDD-Ejemplos_Lab_2s2024/Clase7/Ejemplo1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kevin/OneDrive/Escritorio/Tareas/Prácticas Finales/-EDD-Ejemplos_Lab_2s2024/Clase7/Ejemplo1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/kevin/OneDrive/Escritorio/Tareas/Prácticas Finales/-EDD-Ejemplos_Lab_2s2024/Clase7/Ejemplo1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/kevin/OneDrive/Escritorio/Tareas/Prácticas Finales/-EDD-Ejemplos_Lab_2s2024/Clase7/Ejemplo1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/kevin/OneDrive/Escritorio/Tareas/Prácticas Finales/-EDD-Ejemplos_Lab_2s2024/Clase7/Ejemplo1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
