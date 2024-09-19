@@ -1,0 +1,9 @@
+C:/Users/kevin/OneDrive/Escritorio/Ejemplo9/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Ejemplo9.dir
+C:/Users/kevin/OneDrive/Escritorio/Ejemplo9/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/OneDrive/Escritorio/Ejemplo9/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kevin/OneDrive/Escritorio/Ejemplo9/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/kevin/OneDrive/Escritorio/Ejemplo9/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/kevin/OneDrive/Escritorio/Ejemplo9/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/kevin/OneDrive/Escritorio/Ejemplo9/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/kevin/OneDrive/Escritorio/Ejemplo9/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Ejemplo9_autogen_timestamp_deps.dir
+C:/Users/kevin/OneDrive/Escritorio/Ejemplo9/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Ejemplo9_autogen.dir

@@ -1,0 +1,15 @@
+digraph G {
+"Nodo1" [label="8"];
+"Nodo1" -> "Nodo2";
+"Nodo2" [label="6"];
+"Nodo2" -> "Nodo4";
+"Nodo4" [label="4"];
+"Nodo4" -> "Nodo7";
+"Nodo7" [label="5"];
+"Nodo2" -> "Nodo5";
+"Nodo5" [label="7"];
+"Nodo1" -> "Nodo3";
+"Nodo3" [label="9"];
+"Nodo3" -> "Nodo13";
+"Nodo13" [label="10"];
+}
