@@ -1,0 +1,11 @@
+digraph G{
+2[label="2"];
+2 -> 1[dir=none];
+2 -> 3[dir=none];
+3[label="3"];
+3 -> 4[dir=none];
+3[label="3"];
+3 -> 1[dir=none];
+4[label="4"];
+4 -> 1[dir=none];
+}
