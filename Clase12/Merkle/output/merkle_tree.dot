@@ -1,0 +1,19 @@
+graph MerkleTree {
+node0 [label="0000000000000000A0000B0000C00000000D0000E"];
+node0 -- node1;
+node1 [label="000000000000A0000B0000C"];
+node1 -- node2;
+node2 [label="00000000A0000B"];
+node2 -- node3;
+node3 [label="0000A"];
+node2 -- node4;
+node4 [label="0000B"];
+node1 -- node5;
+node5 [label="0000C"];
+node0 -- node6;
+node6 [label="00000000D0000E"];
+node6 -- node7;
+node7 [label="0000D"];
+node6 -- node8;
+node8 [label="0000E"];
+}

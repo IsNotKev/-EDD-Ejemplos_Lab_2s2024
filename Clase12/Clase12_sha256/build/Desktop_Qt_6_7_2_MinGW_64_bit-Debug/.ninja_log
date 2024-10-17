@@ -1,0 +1,9 @@
+# ninja log v6
+16	1071	7508893612603669	Clase12_sha256_autogen/timestamp	75a6546eb1b200bc
+16	1071	7508893612603669	Clase12_sha256_autogen/mocs_compilation.cpp	75a6546eb1b200bc
+16	1071	7508893612603669	C:/Users/kevin/OneDrive/Escritorio/Clase12_sha256/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Clase12_sha256_autogen/timestamp	75a6546eb1b200bc
+16	1071	7508893612603669	C:/Users/kevin/OneDrive/Escritorio/Clase12_sha256/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Clase12_sha256_autogen/mocs_compilation.cpp	75a6546eb1b200bc
+1086	3316	7508893613833576	CMakeFiles/Clase12_sha256.dir/main.cpp.obj	232f9a55cb4088de
+1079	3320	7508893613768287	CMakeFiles/Clase12_sha256.dir/Clase12_sha256_autogen/mocs_compilation.cpp.obj	fbd75df329b2bac8
+1090	3566	7508893613873586	CMakeFiles/Clase12_sha256.dir/widget.cpp.obj	9ef05af7237fbbe0
+3567	3858	7508893638645890	Clase12_sha256.exe	4922fe7ef3eb8ab5
